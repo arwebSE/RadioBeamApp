@@ -4,10 +4,10 @@ Public GitHub Pages website for RadioBeam app information, support, and App Stor
 
 ## URLs
 
-- Marketing URL: `https://arwebse.github.io/radiobeam-site/`
-- Privacy Policy URL: `https://arwebse.github.io/radiobeam-site/privacy/`
-- Support URL: `https://arwebse.github.io/radiobeam-site/support/`
-- User Privacy Choices URL: `https://arwebse.github.io/radiobeam-site/privacy/#choices`
+- Marketing URL: `https://arwebse.github.io/RadioBeamApp/`
+- Privacy Policy URL: `https://arwebse.github.io/RadioBeamApp/privacy/`
+- Support URL: `https://arwebse.github.io/RadioBeamApp/support/`
+- User Privacy Choices URL: `https://arwebse.github.io/RadioBeamApp/privacy/#choices`
 
 ## Deployment
 
