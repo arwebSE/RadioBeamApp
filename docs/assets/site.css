@@ -131,15 +131,6 @@ a:hover {
   padding: clamp(48px, 8vw, 96px) 0 56px;
 }
 
-.eyebrow {
-  margin: 0 0 14px;
-  color: var(--green);
-  font-size: 0.78rem;
-  font-weight: 800;
-  letter-spacing: 0.09em;
-  text-transform: uppercase;
-}
-
 h1,
 h2,
 h3 {
